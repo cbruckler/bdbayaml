@@ -1,0 +1,11 @@
+---
+specVersion: "3"
+
+overrides:
+  - component:
+      name: "nginx"
+    files:
+      - sha1: 2907a666dd19a148fde851f0d780d470cc8cc699
+    newVersion: "1.5"
+    forceVersion: true
+
